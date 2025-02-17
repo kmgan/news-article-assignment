@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "title": "a",
+      "summary": "a",
+      "date": "2025-02-03",
+      "publisher": "a",
+      "id": 1
+    },
+    {
+      "title": "b",
+      "summary": "b",
+      "date": "2025-02-01",
+      "publisher": "b",
+      "id": 2
+    }
+  ]
+}

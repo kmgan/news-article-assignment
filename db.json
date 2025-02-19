@@ -1,11 +1,116 @@
 {
   "articles": [
     {
-      "title": "a",
-      "summary": "a",
-      "date": "2025-02-03",
-      "publisher": "a",
+      "title": "Tech Trends in 2024",
+      "summary": "Exploring the cutting-edge technologies that are set to shape the future of industries in 2025.",
+      "date": "2025-02-01",
+      "publisher": "TechWorld",
       "id": 1
+    },
+    {
+      "title": "AI and the Future of Healthcare",
+      "summary": "How artificial intelligence is transforming the healthcare sector and improving patient care.",
+      "date": "2025-02-02",
+      "publisher": "HealthTech News",
+      "id": 2
+    },
+    {
+      "title": "Cybersecurity in a Remote World",
+      "summary": "With more businesses operating remotely, cybersecurity has become more critical than ever.",
+      "date": "2025-02-03",
+      "publisher": "Security Today",
+      "id": 3
+    },
+    {
+      "title": "Sustainability in Fashion",
+      "summary": "Sustainability is becoming a major focus in the fashion industry, with brands making eco-friendly shifts.",
+      "date": "2025-02-04",
+      "publisher": "EcoFashion Daily",
+      "id": 4
+    },
+    {
+      "title": "The Rise of Electric Vehicles",
+      "summary": "Electric vehicles are no longer a niche market; they're revolutionizing the automotive industry.",
+      "date": "2025-02-05",
+      "publisher": "GreenAuto Magazine",
+      "id": 5
+    },
+    {
+      "title": "Blockchain Beyond Cryptocurrency",
+      "summary": "Blockchain technology is finding applications outside cryptocurrency, including supply chain management and healthcare.",
+      "date": "2025-02-06",
+      "publisher": "Blockchain Insights",
+      "id": 6
+    },
+    {
+      "title": "The Future of Remote Work",
+      "summary": "Remote work is here to stay. What will the future of work look like in 2025 and beyond?",
+      "date": "2025-02-07",
+      "publisher": "WorkTech News",
+      "id": 7
+    },
+    {
+      "title": "The Evolution of Social Media",
+      "summary": "Social media is evolving beyond entertainment. How are platforms shaping modern communication?",
+      "date": "2025-02-08",
+      "publisher": "Digital Trends",
+      "id": 8
+    },
+    {
+      "title": "Tech Trends in 2025",
+      "summary": "Exploring the cutting-edge technologies that are set to shape the future of industries in 2025.",
+      "date": "2025-02-01",
+      "publisher": "TechWorld",
+      "id": 9
+    },
+    {
+      "title": "AI and the Future of Healthcare",
+      "summary": "How artificial intelligence is transforming the healthcare sector and improving patient care.",
+      "date": "2025-02-02",
+      "publisher": "HealthTech News",
+      "id": 10
+    },
+    {
+      "title": "Cybersecurity in a Remote World",
+      "summary": "With more businesses operating remotely, cybersecurity has become more critical than ever.",
+      "date": "2025-02-03",
+      "publisher": "Security Today",
+      "id": 11
+    },
+    {
+      "title": "Sustainability in Fashion",
+      "summary": "Sustainability is becoming a major focus in the fashion industry, with brands making eco-friendly shifts.",
+      "date": "2025-02-04",
+      "publisher": "EcoFashion Daily",
+      "id": 12
+    },
+    {
+      "title": "The Rise of Electric Vehicles",
+      "summary": "Electric vehicles are no longer a niche market; they're revolutionizing the automotive industry.",
+      "date": "2025-02-05",
+      "publisher": "GreenAuto Magazine",
+      "id": 13
+    },
+    {
+      "title": "Blockchain Beyond Cryptocurrency",
+      "summary": "Blockchain technology is finding applications outside cryptocurrency, including supply chain management and healthcare.",
+      "date": "2025-02-06",
+      "publisher": "Blockchain Insights",
+      "id": 14
+    },
+    {
+      "title": "The Future of Remote Work",
+      "summary": "Remote work is here to stay. What will the future of work look like in 2025 and beyond?",
+      "date": "2025-02-07",
+      "publisher": "WorkTech News",
+      "id": 15
+    },
+    {
+      "title": "The Evolution of Social Media",
+      "summary": "Social media is evolving beyond entertainment. How are platforms shaping modern communication?",
+      "date": "2025-02-08",
+      "publisher": "Digital Trends",
+      "id": 16
     }
   ]
 }

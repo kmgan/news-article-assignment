@@ -96,9 +96,9 @@ export default function CreateArticle() {
     };
 
     return (
-        <div className='container-md py-5 px-lg-5'>
-            <div className="d-flex justify-content-end mb-3">
-                <button className="btn btn-link" onClick={handleDisplay}>
+        <div className='container py-5 px-3 px-lg-5'>
+            <div className='d-flex justify-content-end mb-3'>
+                <button className='btn btn-link' onClick={handleDisplay}>
                     View All Articles &gt;
                 </button>
             </div>

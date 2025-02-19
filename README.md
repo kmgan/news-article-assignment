@@ -1,37 +1,49 @@
-News Article Assignment
+# News Article Assignment
 
-Overview:
-This project is a news article application where users can view, add, edit, and delete articles. The application utilizes a mock API to manage articles and supports pagination, search functionality, and responsive design.
+## Getting Started
 
-Requirements:
-- Node.js (v14 or higher)
-- npm (Node Package Manager)
+To run this project, follow these steps:
 
-Installation Instructions:
-
-1. Clone the Repository:
-   To get started, clone this repository to your local machine by running the following command:
+1. **Clone the repository:**  
+   ```sh
    git clone https://github.com/kmgan/news-article-assignment.git
+   ```
 
-2. Install Dependencies:
-   Navigate into the project directory and install the required dependencies listed in package.json by running:
+2. **Navigate into the project directory:**  
+   ```sh
    cd news-article-assignment
+   ```
+
+3. **Install dependencies:**  
+   ```sh
    npm install
+   ```
 
-3. Run the Application:
-   Open two terminals. In the first terminal, run the following command to start the frontend:
-   npm start
+## Running the Application
 
-4. Run the Mock API:
-   In the second terminal, start the mock API by running:
-   npm run start:mock-api
+### Running the Frontend
+To start the frontend, open a terminal and run:
+```sh
+npm start
+```
 
-5. Access the Application:
-   Once the frontend and mock API are running, open your browser and navigate to http://localhost:3000 to view the application.
+### Running the Mock API
+To start the mock API, open a second terminal and run:
+```sh
+npm run start:mock-api
+```
 
-Features:
+### Accessing the Application
+Once both the frontend and mock API are running, open your browser and navigate to:
+```sh
+http://localhost:3000
+```
+
+## Features
+
 - View news articles with pagination
 - Filter articles by title, publisher, or date using the search bar
 - Add new articles
 - Edit existing articles
-- Delete articles with confirmation dialog
+- Delete articles with a confirmation dialog
+
